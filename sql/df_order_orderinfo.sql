@@ -1,0 +1,6 @@
+INSERT INTO "df_order_orderinfo" VALUES ('2020122009332333', '2020-12-20 09:33:23.769712', '0', '36', '', '33');
+INSERT INTO "df_order_orderinfo" VALUES ('2020122009345533', '2020-12-20 09:34:55.063443', '0', '32', '', '33');
+INSERT INTO "df_order_orderinfo" VALUES ('2020122009352733', '2020-12-20 09:35:27.226788', '0', '30', '', '33');
+INSERT INTO "df_order_orderinfo" VALUES ('2020122009415333', '2020-12-20 09:41:53.530804', '0', '415', '', '33');
+INSERT INTO "df_order_orderinfo" VALUES ('2020042720141632', '2020-04-27 20:14:16.245991', '0', '70', '', '32');
+INSERT INTO "df_order_orderinfo" VALUES ('2020050121492832', '2020-05-01 21:49:28.106780', '0', '301', '', '32');
